@@ -146,7 +146,7 @@ ul {
     padding: 18px 0 64px;
 }
 
-.advantages #advantages {
+.label {
     margin: 0 auto;
     font-weight: 400;
     font-size: 11px;
@@ -160,7 +160,7 @@ ul {
     line-height: 30px;
 }
 
-.advantages .advantages-title {
+.title {
     font-weight: 700;
     font-size: 38px;
     text-align: center;
@@ -185,9 +185,6 @@ ul {
     background: #1EACC7;
     border-radius: 100%;
     margin-right: 25px;
-}
-
-.advantages .reason .reason-annotation  {
 }
 
 .advantages .reason .reason-annotation .reason-annotation-title {
